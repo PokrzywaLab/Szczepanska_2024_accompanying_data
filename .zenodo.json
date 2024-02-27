@@ -1,0 +1,52 @@
+{
+  "license": "cc-by-4.0",
+  "title": "Data accompanying the manuscript Pheromone-based communication influences the production of somatic extracellular vesicles in C. elegans",
+  "version": "1-0-0",
+  "upload_type": "other",
+  "publication_date": "2024-02-27",
+  "language": "eng",
+  "description": "Auxiliary data to article Pheromone-based communication influences the production of somatic extracellular vesicles in C. elegans by Szczepańska et al., 2024.",
+  "notes": "Work in Michał Turek Laboratory was mainly funded by a National Science Centre SONATA grant (2019/35/D/NZ3/04091) and additionally supported by a National Science Centre SONATA BIS grant (2021/42/E/NZ3/00358). Work in Wojciech Pokrzywa Laboratory was funded by the Foundation for Polish Science co-financed by the European Union under the European Regional Development Fund (grant POIR.04.04.00-00-5EAB/18-00 to KO, and WP), and additionally supported by the European Molecular Biology Organization (EMBO Installation Grant No. 3916 to KO, and WP), and the Norwegian Financial Mechanism 2014-2021 operated by the Polish National Science Centre, Poland (project contract number 2019/34/H/NZ3/00691 to WP). Work in the Frank C. Schroeder Laboratory was supported by the NIH (R35 GM131877).",
+  "keywords": ["C. elegans", "muscles", "extracellular vesicles", "exophers", "pheromones", "olfactory neurons"],
+  "creators": [
+    {
+      "affiliation": "Laboratory of Animal Molecular Physiology, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland",
+      "name": "Agata Szczepańska",
+    },
+    {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Katarzyna Olek",
+    },
+    {
+      "affiliation": "Laboratory of Animal Molecular Physiology, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland",
+      "name": "Klaudia Kołodziejska",
+    },
+    {
+      "affiliation": "Boyce Thompson Institute and Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14853, USA",
+      "name": "Jingfang Yu",
+    },
+    {
+      "affiliation": "Laboratory of Animal Molecular Physiology, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland; Faculty of Chemistry, Warsaw University of Technology, Warsaw, Poland",
+      "name": "Abdulrahman Tudu Ibrahim",
+    },
+    {
+      "affiliation": "Laboratory of Animal Molecular Physiology, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland",
+      "name": "Laura Adamkiewicz",
+    },
+    {
+      "affiliation": "Boyce Thompson Institute and Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14853, USA",
+      "name": "Frank C. Schroeder",
+    },
+    {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Wojciech Pokrzywa",
+      "orcid": "0000-0002-5110-4462"
+    }
+    {
+      "affiliation": "Laboratory of Animal Molecular Physiology, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland",
+      "name": "Michał Turek",
+      "orcid": "0000-0002-4637-5700"
+    }
+  ],
+  "access_right": "open"
+}
