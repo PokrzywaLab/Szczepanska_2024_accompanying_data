@@ -70,7 +70,7 @@ authors:
     email: m.turek@ibb.waw.pl
 identifiers:
   - type: doi
-    value: 10.1234/zenodo.4321
+    value: 10.5281/zenodo.10718455
     description: Zenodo repository
   - type: url
     value: >-
